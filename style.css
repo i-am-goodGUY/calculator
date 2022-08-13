@@ -1,0 +1,19 @@
+body{
+    background-color:rgb(241, 188, 88);
+}
+
+#main{
+    color:blueviolet;
+}
+
+#click{
+    font-size:50px;
+    background-color:cyan;
+    color:yellowgreen;
+    cursor:pointer;
+}
+
+#keyl{
+    font-size:100px;
+    color:yellowgreen;
+}
